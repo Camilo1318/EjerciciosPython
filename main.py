@@ -1,11 +1,6 @@
-#Escribir un programa que pregunte al usuario su edad y muestre por pantalla si es mayor de edad o no.
+print("Bienvenido al programa de Python")
 
-edad = int(input("Dígame su edad: "))
+#Para poder ejecutar en shell es: Python3 "nombre de ejercicio y extención"
 
-def calcularAdultez(edad):
-  if edad>= 18:
-    return "Eres un Adultero"
-  else: 
-    return "Eres un niño aún" 
+#Link de ejercicios: https://aprendeconalf.es/docencia/python/ejercicios/
 
-print(calcularAdultez(edad))

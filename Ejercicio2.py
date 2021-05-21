@@ -3,12 +3,12 @@
 password = input("Ingresa tu contraseña: ")
 repeatPassword = input("Ingresa nuevamente tu contraseña: ")
 
-def verificarPassword (password, repeatPassword):
-  if password.lower() == repeatPassword.lower():
-    return "Exito Siga con su vida"
-  else:
-    return "No sumerced, por aqui no puede seguir"
 
-print(verificarPassword(password,repeatPassword))
+def verificarPassword(password, repeatPassword):
+    if password.lower() == repeatPassword.lower():
+        return "Exito Siga con su vida"
+    else:
+        return "No sumerced, por aqui no puede seguir"
 
 
+print(verificarPassword(password, repeatPassword))
