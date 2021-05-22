@@ -10,5 +10,4 @@ def verificarPassword(password, repeatPassword):
     else:
         return "No sumerced, por aqui no puede seguir"
 
-print("Este es nuevo por Yosi")
 print(verificarPassword(password, repeatPassword))
