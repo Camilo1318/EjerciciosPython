@@ -4,3 +4,4 @@ print("Bienvenido al programa de Python")
 
 #Link de ejercicios: https://aprendeconalf.es/docencia/python/ejercicios/
 
+#Link de video de python: https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=1&ab_channel=pildorasinformaticaspildorasinformaticas
