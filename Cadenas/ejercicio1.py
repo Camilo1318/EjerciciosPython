@@ -6,16 +6,13 @@ n = int(input("ingrese un numero entero "))
 print((nombre + "\n") * (n))
 
 
-
 #Cristian Pérez
 nombre = input("Nombre: ")
 n = int(input("Ingrese un numero entero: "))
 print((nombre + "\n") * n) 
 
 
-
 #Juan Diego
-
 nombre = str(input("Introduzca su nombre: "))
 numero = int(input("Introduzca un numero entero: "))
 print((nombre + "\n") * numero)

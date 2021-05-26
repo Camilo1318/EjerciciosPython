@@ -6,7 +6,6 @@ substring_numero = numero_telefono[4:-3]
 print(substring_numero)
 
 
-
 #Juan Diego
 numero_telefonico = (input("Introduzca un numero telefonico que empieze por +xx-xxxxxxxxx-xx: ")) 
 
