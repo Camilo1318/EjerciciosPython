@@ -9,9 +9,11 @@ def VerificarParImpar(num):
     return f"El numero {num} no tiene bando"
   elif num%2 == 0:
     return f"El numero {num} es par"
-  else :
+  else:
     return f"El numero {num} es impar"
     
+#9/2 -> 4 -->1
 
 print(VerificarParImpar(num))
+
 

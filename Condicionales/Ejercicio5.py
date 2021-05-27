@@ -11,3 +11,5 @@ def verificarRequisito(edad,ingreso):
     return "El usuario no tiene que tributar"
 
 print(verificarRequisito(edad,ingreso))
+
+#
