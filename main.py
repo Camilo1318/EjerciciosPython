@@ -1,3 +1,6 @@
+
+import MasterMind
+
 #Para poder ejecutar en shell es: Python3 "nombre de ejercicio y extención"
 
 #Link de ejercicios: https://aprendeconalf.es/docencia/python/ejercicios/

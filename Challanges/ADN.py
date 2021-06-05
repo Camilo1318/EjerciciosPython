@@ -1,0 +1,1 @@
+#La descripcion del ejercicio se encuentra en la seccion Retos de discord
