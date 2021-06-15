@@ -6,7 +6,7 @@
 precio_pan = 3.49
 valor_descuento = 0.4
 
-print("Bienvenido a su Panaderia.../n")
+print("Bienvenido a su Panaderia..-\n")
 
 numero_panes = int(input("Ingrese la cantidad de panes que no fueron del dia: "))
 pan_descuento = precio_pan*valor_descuento

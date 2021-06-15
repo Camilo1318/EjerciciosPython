@@ -22,9 +22,6 @@ asignaturas = ["Matematicas " + str(n_mat), "Fisica " + str(n_fis), "Quimica " +
 print(asignaturas[:])
 
 
-
-
-
 #Juan Diego
 
 

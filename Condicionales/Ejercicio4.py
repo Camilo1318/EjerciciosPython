@@ -1,4 +1,4 @@
-#Escribir un programa que pida al usuario un número entero y muestre por pantalla si es par o impar.
+t#Escribir un programa que pida al usuario un número entero y muestre por pantalla si es par o impar.
 
 #Pass se utiliza sobre todo para las funciones que no tienen nada en ellas, ejemplo para que despues la puedas modificar, también se puede utilizar si solo quieres que tu código o función llegue hasata cierto punto.
 
