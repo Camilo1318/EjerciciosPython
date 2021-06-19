@@ -1,6 +1,8 @@
 
 #import ListasYTuplas.ejer8
-import Bucles.Ejercicio7
+#import PruebaCalculadora
+import Challanges.AgenciaDePasajeros
+#import Listas.ejer7
 
 #Para poder ejecutar en shell es: Python3 "nombre de ejercicio y extención"
 

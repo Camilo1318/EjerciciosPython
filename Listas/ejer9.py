@@ -13,7 +13,9 @@ print(palabras)
 
 
 #Juanda
-n = int(input("ingrese el numero de listas que desea"))
+n = int(input("ingrese un numero"))
+palabra[]
+
 
 
 

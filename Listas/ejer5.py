@@ -13,5 +13,22 @@ else:
 
 
 
+#Juan Diego
+
+print("Juan Diego".center(50, "*"))
+
+meses=("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre")
+
+numero = int(input("Introduzca un numero del 1 al 12: "))
+
+if numero>=1 and numero<len(meses):
+    print(f"El mes correspondiente al numero es: {meses[numero-1]}")
+else:
+    print("Mes no valido")
+
+
+
+
+
 
 
